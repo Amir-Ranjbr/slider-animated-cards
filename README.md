@@ -1,8 +1,8 @@
 # HTML & CSS && JS Card Animation
 
-![Thumbnail](preview-white.png)
+![Thumbnail](images/desktop/laptop.png)
 <br>
 <br>
 <br>
 <br>
-![Thumbnail](preview-black.png)
+![Thumbnail](images/desktop/laptop2.png)
